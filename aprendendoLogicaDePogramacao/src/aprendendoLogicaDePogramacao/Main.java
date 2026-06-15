@@ -3,7 +3,12 @@ package aprendendoLogicaDePogramacao;
 public class Main {
     public static void main(String[] args) {
 		
-    	int idade = 30;
-    	System.out.println("A idade é: "+idade);
+    	/*Tipos de variaveis java*/
+    	
+    	int numero = 30;
+    	String frase = "hello world";
+    	boolean decisao = true;
+    	char letra = 'r';
+    	double salario = 2.5;
 	}
 }
